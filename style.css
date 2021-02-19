@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;900&display=swap');
+
+.parallax {
+    /* The image used */
+    background-image: url("imgs/evie-s-JY_rSd-Kb1o-unsplash.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax2 {
+    /* The image used */
+    background-image: url("imgs/adrien-olichon-RCAhiGJsUUE-unsplash.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax3 {
+    /* The image used */
+    background-image: url("imgs/joshua-reddekopp-7Oq9r2CiTLg-unsplash.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax4 {
+    /* The image used */
+    background-image: url("imgs/pexels-jovydas-pinkevicius-3113541.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax5 {
+    /* The image used */
+    background-image: url("imgs/pexels-julie-aagaard-2467289.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax6 {
+    /* The image used */
+    background-image: url("imgs/pexels-pixabay-48794.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax7 {
+    /* The image used */
+    background-image: url("imgs/shalom-de-leon-FUkqgdRMPFc-unsplash.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax8 {
+    /* The image used */
+    background-image: url("imgs/pexels-lorenzo-242236.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax9 {
+    /* The image used */
+    background-image: url("imgs/ben-allan-10JBVMiWSxw-unsplash.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax10 {
+    /* The image used */
+    background-image: url("imgs/pexels-ethan-jones-3222442.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax11 {
+    /* The image used */
+    background-image: url("imgs/ben-allan-bHsLYa7nno4-unsplash.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax12 {
+    /* The image used */
+    background-image: url("imgs/pexels-henry-&-co-2456270.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax13 {
+    /* The image used */
+    background-image: url("imgs/pexels-sharath-giri-3849160.jpg");
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .parallax14 {
+    /* The image used */
+    background-color: #000000;
+  
+    /* Set a specific height */
+    height: 720px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ana {
+      width: 250px;
+      filter: invert(100%)
+  }
+
+.headerbox {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+    font-family: 'Montserrat';
+    font-weight: 900;
+}
+
+#dictbox {
+    display: flex;
+    flex-flow: column;
+    width: 50%;
+    align-items: center;
+}
+
+.bgbox {
+    background-color:rgba(255, 255, 255, 0.5);;
+    padding: 5%;
+}
+
+.dicttitle {
+    font-size: 3em;
+    padding-right: 2%;
+}
+
+.dicttype {
+    font-size: 1.5em;
+    padding-left: 2%;
+}
+
+.mont {
+    font-family: 'Montserrat'
+}
+
+.textbox {
+    width: 75%;
+    font-family: 'Bebas Neue';
+    font-size: 1.5em;
+    color: #FFFFFF;
+}
+
+.textbox2 {
+    width: 75%;
+    font-family: 'Bebas Neue';
+    font-size: 1.5em;
+    color: #000000;
+}
